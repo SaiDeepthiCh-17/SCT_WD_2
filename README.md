@@ -1,4 +1,4 @@
-# 🌐 Calculator Web Application – SkillCart Internship Task 2
+# Calculator Web Application – SkillCart Internship Task 2
 
 This is the second task completed as part of my internship with **SkillCart Technology**. The goal was to design a fully functional **Calculator Web Application**.
 
