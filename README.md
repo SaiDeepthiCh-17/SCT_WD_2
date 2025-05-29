@@ -35,6 +35,7 @@ This is the second task completed as part of my internship with **SkillCart Tech
 
 ## 🗂 Project Structure
 SCT_WD_2/
+
 ├── index.html
 ├── style.css
 └── script.js
